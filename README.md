@@ -1,4 +1,4 @@
-# Speech-Recognition-with-Hidden-Markov-Models-in-Matlab
+# Speech-Recognition-with-HMMs
 
 This repository contains the code and documentation for a Group Assignment: Speech Recognition project undertaken at the University of Surrey in 2023. 
 
